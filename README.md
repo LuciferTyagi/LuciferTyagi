@@ -1,6 +1,7 @@
 ![logo](https://github.com/LuciferTyagi/LuciferTyagi/blob/main/assets/Banner.png?raw=true)
 <h1 align="center">Hi there! I'm Yagyansh(Lucifer) Tyagi  <br> <img src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 /> </h1>
- <H3 ALIGN="center"> Navigating the Android Universe🌍 with Passion and Precision </H3>
+ <H3 ALIGN="center"> Navigating the Front-End Universe🌍 with Passion and Precision </H3>
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=LuciferTyagi&label=Profile%20views&color=0e75b6&style=flat" alt="LuciferTyagi"/></p>
 
 <img align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e479f9ff8b27tu60bhh0m2jw8qwu801qq4mu8c1n480&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=300 margin="20px" />
@@ -8,7 +9,7 @@
 
 - 📚 **Education:** *3rd Year Undergrad pursuing B.Tech in Computer Science with a specialization in AI from ABESIT, Ghaziabad*
 
-- ⚒️ **Passions:** *Android Development Enthusiast and LeetCode Explorer*
+- ⚒️ **Passions:** *Front-End Development Enthusiast and LeetCode Explorer*
 
 - 🎉 **Fun Facts:**
   - 🕹️ *Gaming Geek*
