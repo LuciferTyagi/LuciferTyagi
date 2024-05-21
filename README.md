@@ -1,4 +1,3 @@
-![logo](https://github.com/LuciferTyagi/LuciferTyagi/blob/main/assets/Banner.png?raw=true)
 <h1 align="center">Hi there! I'm Yagyansh(Lucifer) Tyagi  <br> <img src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 /> </h1>
  <H3 ALIGN="center"> Navigating the Front-End Universe🌍 with Passion and Precision </H3>
 
