@@ -6,7 +6,7 @@
 <img align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e479f9ff8b27tu60bhh0m2jw8qwu801qq4mu8c1n480&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=300 margin="20px" />
 <h3 align="left">About Me: </h3>
 
-- 📚 **Education:** *3rd Year Undergrad pursuing B.Tech in Computer Science with a specialization in AI from ABESIT, Ghaziabad*
+- 📚 **Education:** *Final Year Undergrad pursuing B.Tech in Computer Science with a specialization in AI from ABESIT, Ghaziabad*
 
 - ⚒️ **Passions:** *Front-End Development Enthusiast and LeetCode Explorer*
 
