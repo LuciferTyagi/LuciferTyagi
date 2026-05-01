@@ -15,9 +15,7 @@
 - 🧠 Passionate about system design and solving real-world problems through software
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left">Connect with me:</h3>
-
-<p align="left" style="display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
+<div align="left" style="display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
   
   <a href="https://www.linkedin.com/in/lucifertyagi/" target="blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40"/>
@@ -39,7 +37,7 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40"/>
   </a>
 
-</p>
+</div>
  
 <h3 align="left">Programming Languages:</h3>
 
