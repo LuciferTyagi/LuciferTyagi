@@ -15,15 +15,12 @@
 - 🧠 Passionate about system design and solving real-world problems through software
 
 <h3 align="left">Connect with me:</h3>
-<div align="left" style="display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
+<div  align="left" >
   
   <a href="https://www.linkedin.com/in/lucifertyagi/" target="blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40"/>
   </a>
-
-  <a href="https://www.youtube.com/c/ProfessorLucifer" target="blank">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" width="40"/>
-  </a>
+ <br/>
 
   <a href="https://twitter.com/TyagiYagyansh" target="blank">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="40"/>
