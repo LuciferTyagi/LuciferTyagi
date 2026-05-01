@@ -1,29 +1,45 @@
 <h1 align="center">Hi there! I'm Yagyansh(Lucifer) Tyagi  <br> <img src="https://c.tenor.com/neqnFd4CHWAAAAAC/up-wave.gif" width=150 /> </h1>
- <H3 ALIGN="center"> Navigating the Front-End Universe🌍 with Passion and Precision </H3>
+ <H3 ALIGN="center"> Building SaaS MVPs for founders who care about speed and clean execution</H3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=LuciferTyagi&label=Profile%20views&color=0e75b6&style=flat" alt="LuciferTyagi"/></p>
 
 <img align="right" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e479f9ff8b27tu60bhh0m2jw8qwu801qq4mu8c1n480&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=300 margin="20px" />
 <h3 align="left">About Me: </h3>
 
-- 📚 **Education:** *Final Year Undergrad pursuing B.Tech in Computer Science with a specialization in AI from ABESIT, Ghaziabad*
+- ⚒️ Full-Stack SaaS Engineer building production-ready MVPs from idea to deployment
 
-- ⚒️ **Passions:** *Front-End Development Enthusiast and LeetCode Explorer*
+- 🚀 Focused on scalable systems, clean architecture, and high-performance web products
 
-- 🎉 **Fun Facts:**
-  - 🕹️ *Gaming Geek*
-  - 💡 *LeetCode Luminary*
-  - 🎬 *MCU Devotee*
-  - 🎥 *Aspiring YouTuber*
+- 💡 Product-driven mindset with strong execution speed and attention to detail
 
+- 🧠 Passionate about system design and solving real-world problems through software
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucifertyagi/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" /></a>
- <a href="https://www.youtube.com/c/ProfessorLucifer" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" width="40" /></a>
-<a href="https://twitter.com/TyagiYagyansh" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="40" /></a>
- <a href="https://github.com/LuciferTyagi" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="40" width="40" /></a>
-<a href="mailto:yagyanshtyagi61@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="50" /></a>
+<h3 align="left">Connect with me:</h3>
+
+<p align="left" style="display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
+  
+  <a href="https://www.linkedin.com/in/lucifertyagi/" target="blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40"/>
+  </a>
+
+  <a href="https://www.youtube.com/c/ProfessorLucifer" target="blank">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" height="40" width="40"/>
+  </a>
+
+  <a href="https://twitter.com/TyagiYagyansh" target="blank">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" height="40" width="40"/>
+  </a>
+
+  <a href="https://github.com/LuciferTyagi" target="blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" height="40" width="40"/>
+  </a>
+
+  <a href="mailto:yagyanshtyagi61@gmail.com" target="blank">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40"/>
+  </a>
+
+</p>
  
 <h3 align="left">Programming Languages:</h3>
 
